@@ -1,6 +1,8 @@
 🚀 DevOps Learning Journey & Projects
 Welcome to my DevOps Learning Journey! This repository documents my progress, hands-on projects, automation scripts, and infrastructure setups.
 
+📖 **Read my blog:** [ExiledPhoenix DevOps Blog](https://exiledphoenix.gitbook.io/exiledphoenix/)
+
 📌 What You'll Find Here
 ✅ Step-by-step DevOps learning notes
 ✅ Hands-on practice with tools like Docker, Kubernetes, AWS, Terraform, and more
